@@ -1,0 +1,24 @@
+```
+=== DEMO AES TEST FILE ===
+
+User: Amit
+Project: Video Hash Authentication
+Purpose: Testing encryption and verification
+
+Sample Data:
+-----------------------
+
+
+You can modify this content to test:
+- Hash mismatch (tampering)
+- Verification failure
+- Different outputs
+
+Random Data:
+-----------------------
+1234567890
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+End of File.
+```
